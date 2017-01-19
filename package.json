@@ -1,0 +1,25 @@
+{
+  "name": "hmr-auto-accept-loader",
+  "version": "1.0.0",
+  "description": "Loader that `module.hot.accept` all files that follow a (configurable) naming convention",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/presidenten/hmr-auto-accept-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "hmr",
+    "vuex",
+    "webpack-loader"
+  ],
+  "author": "Johan Hernefeldt <johans.inbox@gmail.com> (https://github.com/presidenten)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/presidenten/hmr-auto-accept-loader/issues"
+  },
+  "homepage": "https://github.com/presidenten/hmr-auto-accept-loader#readme"
+}
