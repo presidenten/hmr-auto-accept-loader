@@ -38,7 +38,7 @@ Aint no one got time for that.
 
 ## Usage
 This loader can for example be used right after eslint in webpacks preloader.
-Make sure to edit the `fileEnding` query according to the projects naming convention. Here it looks for files ending with `-store.js`.
+Make sure to edit the `fileEnding` query according to the projects naming convention. Here it looks for files with filenames ending with `-store.js`.
 ```javascript
 preLoaders: [
   {

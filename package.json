@@ -1,6 +1,6 @@
 {
   "name": "hmr-auto-accept-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Loader that `module.hot.accept` all files that follow a (configurable) naming convention",
   "main": "index.js",
   "scripts": {
